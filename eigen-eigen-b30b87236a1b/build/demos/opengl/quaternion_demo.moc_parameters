@@ -1,0 +1,13 @@
+-I/home/jose/devel/src/eigen-eigen-b30b87236a1b
+-I/home/jose/devel/src/eigen-eigen-b30b87236a1b/build
+-I/usr/include/qt4
+-I/usr/include/qt4/QtOpenGL
+-I/usr/include/qt4/QtGui
+-I/usr/include/qt4/QtCore
+-I/usr/include/qt4
+-DQT_OPENGL_LIB
+-DQT_GUI_LIB
+-DQT_CORE_LIB
+-o
+/home/jose/devel/src/eigen-eigen-b30b87236a1b/build/demos/opengl/quaternion_demo.moc
+/home/jose/devel/src/eigen-eigen-b30b87236a1b/demos/opengl/quaternion_demo.h

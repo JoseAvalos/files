@@ -1,0 +1,247 @@
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_wd981 failed with the following output:
+Change Dir: /home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec3053984649/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3053984649.dir/build.make CMakeFiles/cmTryCompileExec3053984649.dir/build
+make[1]: Entering directory `/home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec3053984649.dir/src.cxx.o
+/usr/bin/c++    -fexceptions -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -DCOMPILER_SUPPORT_wd981 -Werror   -wd981 -o CMakeFiles/cmTryCompileExec3053984649.dir/src.cxx.o -c /home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-wd981'
+make[1]: *** [CMakeFiles/cmTryCompileExec3053984649.dir/src.cxx.o] Error 1
+make[1]: Leaving directory `/home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp'
+make: *** [cmTryCompileExec3053984649/fast] Error 2
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_wd2304 failed with the following output:
+Change Dir: /home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec1504506051/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1504506051.dir/build.make CMakeFiles/cmTryCompileExec1504506051.dir/build
+make[1]: Entering directory `/home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec1504506051.dir/src.cxx.o
+/usr/bin/c++    -fexceptions -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -DCOMPILER_SUPPORT_wd2304 -Werror   -wd2304 -o CMakeFiles/cmTryCompileExec1504506051.dir/src.cxx.o -c /home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-wd2304'
+make[1]: *** [CMakeFiles/cmTryCompileExec1504506051.dir/src.cxx.o] Error 1
+make[1]: Leaving directory `/home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp'
+make: *** [cmTryCompileExec1504506051/fast] Error 2
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_STRICTANSI failed with the following output:
+Change Dir: /home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec2304674787/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2304674787.dir/build.make CMakeFiles/cmTryCompileExec2304674787.dir/build
+make[1]: Entering directory `/home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec2304674787.dir/src.cxx.o
+/usr/bin/c++    -fexceptions -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -DCOMPILER_SUPPORT_STRICTANSI -Werror   -strict-ansi -o CMakeFiles/cmTryCompileExec2304674787.dir/src.cxx.o -c /home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-strict-ansi'
+make[1]: Leaving directory `/home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp'
+make[1]: *** [CMakeFiles/cmTryCompileExec2304674787.dir/src.cxx.o] Error 1
+make: *** [cmTryCompileExec2304674787/fast] Error 2
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_Qunusedarguments failed with the following output:
+Change Dir: /home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec766297685/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec766297685.dir/build.make CMakeFiles/cmTryCompileExec766297685.dir/build
+make[1]: Entering directory `/home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec766297685.dir/src.cxx.o
+/usr/bin/c++    -fexceptions -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -DCOMPILER_SUPPORT_Qunusedarguments -Werror   -Qunused-arguments -o CMakeFiles/cmTryCompileExec766297685.dir/src.cxx.o -c /home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Qunused-arguments'
+make[1]: Leaving directory `/home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp'
+make[1]: *** [CMakeFiles/cmTryCompileExec766297685.dir/src.cxx.o] Error 1
+make: *** [cmTryCompileExec766297685/fast] Error 2
+
+Source file was:
+int main() { return 0;}
+Determining if the Q_WS_WIN exist failed with the following output:
+Change Dir: /home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec2185510661/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2185510661.dir/build.make CMakeFiles/cmTryCompileExec2185510661.dir/build
+make[1]: Entering directory `/home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec2185510661.dir/CheckSymbolExists.cxx.o
+/usr/bin/c++    -fexceptions -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -ansi -O1 -g1  -I/usr/include/qt4    -o CMakeFiles/cmTryCompileExec2185510661.dir/CheckSymbolExists.cxx.o -c /home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
+/home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx: In function ‘int main(int, char**)’:
+/home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:19: error: ‘Q_WS_WIN’ was not declared in this scope
+   return ((int*)(&Q_WS_WIN))[argc];
+                   ^
+make[1]: Leaving directory `/home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp'
+make[1]: *** [CMakeFiles/cmTryCompileExec2185510661.dir/CheckSymbolExists.cxx.o] Error 1
+make: *** [cmTryCompileExec2185510661/fast] Error 2
+
+File /home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+/* */
+#include <QtCore/qglobal.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef Q_WS_WIN
+  return ((int*)(&Q_WS_WIN))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the Q_WS_QWS exist failed with the following output:
+Change Dir: /home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec4226293543/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec4226293543.dir/build.make CMakeFiles/cmTryCompileExec4226293543.dir/build
+make[1]: Entering directory `/home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec4226293543.dir/CheckSymbolExists.cxx.o
+/usr/bin/c++    -fexceptions -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -ansi -O1 -g1  -I/usr/include/qt4    -o CMakeFiles/cmTryCompileExec4226293543.dir/CheckSymbolExists.cxx.o -c /home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
+/home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx: In function ‘int main(int, char**)’:
+/home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:19: error: ‘Q_WS_QWS’ was not declared in this scope
+   return ((int*)(&Q_WS_QWS))[argc];
+                   ^
+make[1]: Leaving directory `/home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp'
+make[1]: *** [CMakeFiles/cmTryCompileExec4226293543.dir/CheckSymbolExists.cxx.o] Error 1
+make: *** [cmTryCompileExec4226293543/fast] Error 2
+
+File /home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+/* */
+#include <QtCore/qglobal.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef Q_WS_QWS
+  return ((int*)(&Q_WS_QWS))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the Q_WS_MAC exist failed with the following output:
+Change Dir: /home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec1041933142/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1041933142.dir/build.make CMakeFiles/cmTryCompileExec1041933142.dir/build
+make[1]: Entering directory `/home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec1041933142.dir/CheckSymbolExists.cxx.o
+/usr/bin/c++    -fexceptions -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -ansi -O1 -g1  -I/usr/include/qt4    -o CMakeFiles/cmTryCompileExec1041933142.dir/CheckSymbolExists.cxx.o -c /home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
+/home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx: In function ‘int main(int, char**)’:
+/home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:19: error: ‘Q_WS_MAC’ was not declared in this scope
+   return ((int*)(&Q_WS_MAC))[argc];
+                   ^
+make[1]: *** [CMakeFiles/cmTryCompileExec1041933142.dir/CheckSymbolExists.cxx.o] Error 1
+make[1]: Leaving directory `/home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp'
+make: *** [cmTryCompileExec1041933142/fast] Error 2
+
+File /home/jose/devel/src/eigen-eigen-b30b87236a1b/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+/* */
+#include <QtCore/qglobal.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef Q_WS_MAC
+  return ((int*)(&Q_WS_MAC))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Compiling the Fortran compiler identification source file "CMakeFortranCompilerId.F" failed.
+Compiler: CMAKE_Fortran_COMPILER-NOTFOUND 
+Build flags: 
+Id flags: 
+
+The output was:
+No such file or directory
+
+
+Compiling the Fortran compiler identification source file "CMakeFortranCompilerId.F" failed.
+Compiler: CMAKE_Fortran_COMPILER-NOTFOUND 
+Build flags: 
+Id flags: -c
+
+The output was:
+No such file or directory
+
+
+Compiling the Fortran compiler identification source file "CMakeFortranCompilerId.F" failed.
+Compiler: CMAKE_Fortran_COMPILER-NOTFOUND 
+Build flags: 
+Id flags: -fpp
+
+The output was:
+No such file or directory
+
+
+Checking whether the Fortran compiler is Compaq using "-what" did not match "Compaq Visual Fortran":
+Checking whether the Fortran compiler is NAG using "-V" did not match "NAG Fortran Compiler":
+Compiling the Fortran compiler identification source file "CMakeFortranCompilerId.F" failed.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+No such file or directory
+
+
+Compiling the Fortran compiler identification source file "CMakeFortranCompilerId.F" failed.
+Compiler:  
+Build flags: 
+Id flags: -c
+
+The output was:
+No such file or directory
+
+
+Compiling the Fortran compiler identification source file "CMakeFortranCompilerId.F" failed.
+Compiler:  
+Build flags: 
+Id flags: -fpp
+
+The output was:
+No such file or directory
+
+
+Checking whether the Fortran compiler is Compaq using "-what" did not match "Compaq Visual Fortran":
+Checking whether the Fortran compiler is NAG using "-V" did not match "NAG Fortran Compiler":
+Compiling the Fortran compiler identification source file "CMakeFortranCompilerId.F" failed.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+No such file or directory
+
+
+Compiling the Fortran compiler identification source file "CMakeFortranCompilerId.F" failed.
+Compiler:  
+Build flags: 
+Id flags: -c
+
+The output was:
+No such file or directory
+
+
+Compiling the Fortran compiler identification source file "CMakeFortranCompilerId.F" failed.
+Compiler:  
+Build flags: 
+Id flags: -fpp
+
+The output was:
+No such file or directory
+
+
+Checking whether the Fortran compiler is Compaq using "-what" did not match "Compaq Visual Fortran":
+Checking whether the Fortran compiler is NAG using "-V" did not match "NAG Fortran Compiler":

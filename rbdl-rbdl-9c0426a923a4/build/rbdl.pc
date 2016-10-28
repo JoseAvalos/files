@@ -1,0 +1,13 @@
+prefix=/home/jose/devel/install
+libdir=/home/jose/devel/install/lib/x86_64-linux-gnu
+includedir=/home/jose/devel/install/include
+
+Name: RBDL
+Description: Rigid Body Dynamics Library
+URL: http://rbdl.bitbucket.org/
+Version: 2.4.0
+Requires: eigen3
+Conflicts:
+Libs: -L${libdir} -lrbdl -Wl,-rpath ${libdir}
+Libs.private:
+Cflags: -I${includedir}

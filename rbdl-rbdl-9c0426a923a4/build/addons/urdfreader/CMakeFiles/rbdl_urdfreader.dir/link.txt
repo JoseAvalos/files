@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O3 -DNDEBUG   -shared -Wl,-soname,librbdl_urdfreader.so.2.4.0 -o librbdl_urdfreader.so.2.4.0 CMakeFiles/rbdl_urdfreader.dir/urdfreader.cc.o ../../librbdl.so.2.4.0 -lconsole_bridge -lurdfdom_world -lurdfdom_model -Wl,-rpath,/home/jose/devel/src/rbdl-rbdl-9c0426a923a4/build: 
